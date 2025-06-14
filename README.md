@@ -101,3 +101,5 @@ A comprehensive, modern cybersecurity tools platform built with React and TypeSc
   <p>Made with ❤️ by <a href="https://github.com/odaysec">OdaySec</a></p>
   <p>⭐ Star this repository if you find it helpful!</p>
 </div>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=odaysec/Cybersec&type=Date)](https://www.star-history.com/#odaysec/Cybersec&Date)
