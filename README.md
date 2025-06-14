@@ -7,9 +7,8 @@ A comprehensive, modern cybersecurity tools platform built with React and TypeSc
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🚀 Features
 
-### 🔍 Reconnaissance Tools
+### Reconnaissance Tools
 - **Subdomain Finder**: Discover subdomains using certificate transparency logs (crt.sh API)
   - Real-time subdomain enumeration
   - Export results to TXT format
@@ -74,7 +73,7 @@ A comprehensive, modern cybersecurity tools platform built with React and TypeSc
   - Comment injection
   - Real-time processing
 
-### 🔒 Security Tools
+### Security Tools
 - **Password Generator**: Create secure, customizable passwords
   - Adjustable length (4-100 characters)
   - Character type selection
@@ -86,15 +85,23 @@ A comprehensive, modern cybersecurity tools platform built with React and TypeSc
   - MD5, SHA-1, SHA-256 support
   - Common password wordlist
 
-## 🛠️ Technology Stack
+## Screenshots
 
-- **Frontend Framework**: React 18.3.1 with TypeScript
-- **Styling**: Tailwind CSS 3.4.1
-- **Icons**: Lucide React
-- **Build Tool**: Vite 5.4.2
-- **Cryptography**: CryptoJS 4.2.0
-- **HTTP Client**: Axios 1.6.0
+| ![Gambar 1](image/1.png) | ![Gambar 2](image/2.png) |
+|:--:|:--:|
+|  |  |
 
+| ![Gambar 1](image/3.png) | ![Gambar 2](image/4.png) |
+|:--:|:--:|
+|  |  |
+
+| ![Gambar 1](image/5.png) | ![Gambar 2](image/6.png) |
+|:--:|:--:|
+|  |  |
+
+| ![Gambar 1](image/7.png) | ![Gambar 2](image/8.png) |
+|:--:|:--:|
+|  |  |
 ---
 
 <div align="center">
