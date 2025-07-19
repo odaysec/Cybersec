@@ -298,6 +298,15 @@ npm audit fix
 - Configure proper SSL certificates
 - Use security headers
 
+<<<<<<< HEAD
+=======
+## Support
+
+### Getting Help
+- **GitHub Issues**: [Report bugs or request features](https://github.com/odaysec/Cybersec/issues)
+- **Documentation**: Check the main [README.md](README.md)
+- **Community**: Join discussions in GitHub Discussions
+>>>>>>> 245da6ff5c1d45e88a7f3711de438b3d5f16ce5a
 
 ### System Information
 To help with troubleshooting, please provide:
@@ -309,4 +318,13 @@ npx envinfo --system --npmPackages react,react-dom,vite --binaries --browsers
 ```
 
 ## License
+<<<<<<< HEAD
 This project is licensed under the MIT License. See [LICENSE](LICENSE) file for details.
+=======
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) file for details.
+
+---
+
+**Note**: This platform is designed for educational and ethical security testing purposes only. Always ensure you have proper authorization before using these tools on any systems or networks.
+>>>>>>> 245da6ff5c1d45e88a7f3711de438b3d5f16ce5a
